@@ -1,5 +1,4 @@
  Source Code
-
 ```c
 #include <stdio.h>
 
